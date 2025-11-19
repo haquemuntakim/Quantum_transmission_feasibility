@@ -1,5 +1,4 @@
-# DLCZ Feasibility Rebuilt (CPU-Only)
-
+# DLCZ Feasibility
 Self-contained environment for feasibility analysis with:
 - Reproducible seeds & artifact stamping
 - Kendall's tau -> Pearson rho copula (PSD-repaired)
@@ -45,3 +44,4 @@ If anything appears duplicated:
 ## Next Extensions
 - Confidence intervals for R distribution
 - Sensitivity metrics using proper Spearman correlation (SciPy)
+
